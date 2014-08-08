@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ITWeekWearable</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_a">Action A</string>
+    <string name="action_b">Action B</string>
+    <string name="action_c">Action C</string>
+    <string name="action_d">Action D</string>
+</resources>
